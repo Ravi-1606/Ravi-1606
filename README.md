@@ -16,4 +16,4 @@
 ### Fun Fact
 - I love writing songs and raps in my free time! 🎤
 
-- [![An image of @ravi1606's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravi1606)](https://holopin.io/@ravi1606)
+ [![An image of @ravi1606's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravi1606)](https://holopin.io/@ravi1606)
