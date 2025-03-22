@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200px">
 </p>
 
+---
+
 ### 🎯 **Dreaming Big, Building Bigger!**  
 🔹 **Code, Create, Conquer** – I turn ideas into digital experiences.  
 🔹 **Crafting Stunning UI/UX** – Because design matters as much as code!  
